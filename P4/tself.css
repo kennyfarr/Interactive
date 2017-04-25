@@ -1,0 +1,35 @@
+body {
+	background: black;
+	margin:20px;
+}
+
+div {
+	display: inline-block;
+	position: absolute;
+}
+
+.mtext {
+	height: 100px;
+	width: 50px;
+	font-family: "Lucida Console";
+	font-size:30vh;
+	font-weight: bold;
+}
+
+#title {
+	top: 20px;
+	left: 150px;
+}
+
+#artist {
+	top:20px;
+	left: 2900px;
+}
+
+.mpic {
+    display: block;
+    margin: auto;
+    width: 70%;
+    height: 65%;
+    left:1600px;
+}

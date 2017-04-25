@@ -1,0 +1,17 @@
+html {
+	background-color: #e7b7ff;
+	font-family: fantasy;
+}
+
+h1 {
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+}
+
+div {
+	position: fixed;
+	left:400px; 
+}

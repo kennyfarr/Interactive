@@ -1,0 +1,87 @@
+.hello {
+	display: block;
+	width: 100px;
+	position: absolute;
+	font-family: "Lucida Console";
+	font-size:400px;
+	font-weight: bold;
+}
+
+#tab1 {
+	top:70px;
+	left:300px;
+}
+
+#tab2 {
+	top:70px;
+	left:2300px;
+}
+
+body {
+	background: #e5cffc;
+	
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 45%;
+    height: 65%;
+}
+
+.text {
+	position: relative;
+	display: none;
+    margin: auto;
+    width: 45%;
+}
+
+img:hover .text {
+	display:block;
+}
+
+img:hover {
+	opacity: 0.2;
+}
+
+.some-element {
+	position: absolute;
+	top:0px;
+  border: 1px solid #ccc;
+  display: none;
+  font-size: 50px;
+  margin: auto;
+  width: 45%;
+}
+
+#some-div:hover .some-element {
+  display: block;
+}
+
+#some-div:hover #some-pic {
+  opacity: 0.4;
+}
+
+#pic1 {
+	top: 5px;
+	left: 800px;
+}
+
+#pic2 {
+	top: 2400px;
+	left: 800px;
+}
+
+#pic3 {
+	top: 3100px;
+	left: 800px;
+}
+
+#pic4 {
+	top: 5500px;
+	left: 800px;
+}
+
+/*
+
+*/

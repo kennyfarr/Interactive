@@ -1,0 +1,51 @@
+body {
+	background: white;
+}
+
+.canvas {
+	width: 900px;
+	height: 556px;
+	margin: 100px auto;
+	background: white;
+	position: relative;
+}
+
+#table {
+	width: 900px;
+	height: 450px;
+	-webkit-transform: skew(120deg);
+	   -moz-transform: skew(20deg);
+	     -o-transform: skew(20deg);
+	background: #946C2B;
+	top: 360px;
+	left: 50px;
+	position: absolute;
+}
+
+#mirror {
+	width: 400px;
+	height: 200px;
+	-webkit-transform: skew(120deg);
+	   -moz-transform: skew(20deg);
+	     -o-transform: skew(20deg);
+	background: silver;
+	top: 460px;
+	left: 250px;
+	position: absolute;
+}
+
+#orange3 {
+	width: 40px;
+	height: 35px;
+	background: #D16D15;
+	-moz-border-radius: 100px / 50px;
+	-webkit-border-radius: 100px / 50px;
+	border-radius: 60px / 40px;
+	top: 450px;
+	left: 520px;
+	position: absolute;
+}
+
+#vase {
+	 
+}

@@ -10,26 +10,82 @@ div {
 
 .mtext {
 	height: 100px;
-	width: 50px;
+	width: 80%;
 	font-family: "Lucida Console";
-	font-size:30vh;
 	font-weight: bold;
 }
 
 #title {
-	top: 20px;
-	left: 150px;
+	margin:10%;
+	font-size:30vh;
 }
 
 #artist {
-	top:20px;
-	left: 2900px;
+	margin:10%;
+	width:70%;
+	height:70%;
+	left: 200%;
+	font-size:30vh;
 }
 
 .mpic {
-    display: block;
-    margin: auto;
-    width: 70%;
-    height: 65%;
-    left:1600px;
+	display: block;
+	margin:auto;
+	width:70%;
+	height:70%;
+    width: auto\9;
+    top:12%;
+    left:100%
+}
+
+#p1 {
+	left:350%;
+	margin:10%;
+	font-size:15vh;
+}
+
+#p2 {
+	left:500%;
+	margin:10%;
+	font-size:15vh;
+}
+
+#p3 {
+	left:650%;
+	display: block;
+	height: 50%;
+
+}
+
+
+#p4 {
+	left:800%;
+	margin:10%;
+	font-size:12vh;
+}
+
+#p5 {
+	left:950%;
+	margin:10%;
+	font-size:12vh;
+}
+
+#p6 {
+	left:1100%;
+	display: block;
+	height: 100%;
+}
+
+#p7 {
+	left:1200%;
+	margin:7%;
+	margin-left:10%;
+	font-size:15vh;
+}
+
+#p8 {
+	left: 1350%;
+	margin:10%;
+	font-size:15vh;
+
 }
